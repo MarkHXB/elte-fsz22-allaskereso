@@ -1,0 +1,4 @@
+rootProject.name = 'joooble'
+
+include 'joooble-domain'
+include 'joooble-application'

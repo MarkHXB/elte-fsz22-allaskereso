@@ -1,0 +1,16 @@
+#hero-image{
+    background-image: url("../assets/images/teamwork.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    border-radius: 10px;
+}
+body{
+    background-image: url('/assets/images/basicbackground.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    padding-top: 10px;
+    text-align: center;
+}
